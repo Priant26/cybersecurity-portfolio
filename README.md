@@ -21,3 +21,6 @@ I am currently building foundational skills in:
 
 ## Goal
 My goal is to gain practical cybersecurity experience and prepare for entry-level IT and cybersecurity internships or roles.
+
+## Projects
+- [Ubuntu Web Server & Kali Linux Testing Project](https://github.com/Priant26/ubuntu-web-server-project)
